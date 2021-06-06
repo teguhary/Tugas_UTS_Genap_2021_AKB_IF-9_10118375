@@ -13,6 +13,12 @@ import com.example.catatanharian.R;
 
 import java.util.List;
 
+/*
+Tanggal pengetjaan  : 3 Juni 2021
+NIM                 : 10118375
+Nama                : Teguh Ary Erdiansyah
+Kelas               : IF-9
+ */
 public class OnboardingAdapter extends RecyclerView.Adapter<OnboardingAdapter.OnboardingViewHolder> {
 
     private List<OnboardingItem> onboardingItems;

@@ -10,6 +10,13 @@ import android.os.Looper;
 import com.example.catatanharian.R;
 import com.example.catatanharian.main.MainActivity;
 
+/*
+Tanggal pengetjaan  : 2 Juni 2021
+NIM                 : 10118375
+Nama                : Teguh Ary Erdiansyah
+Kelas               : IF-9
+ */
+
 public class Splash extends AppCompatActivity {
 
     @Override

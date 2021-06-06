@@ -16,6 +16,13 @@ import com.example.catatanharian.model.model;
 
 import java.util.List;
 
+/*
+Tanggal pengetjaan  : 4 Juni 2021
+NIM                 : 10118375
+Nama                : Teguh Ary Erdiansyah
+Kelas               : IF-9
+ */
+
 public class ListViewAdapter extends BaseAdapter {
 
     private List<model> notesList;

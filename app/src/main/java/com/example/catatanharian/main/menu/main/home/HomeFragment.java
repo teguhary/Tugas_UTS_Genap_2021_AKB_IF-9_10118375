@@ -19,6 +19,12 @@ import com.example.catatanharian.R;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+Tanggal pengetjaan  : 2 Juni 2021
+NIM                 : 10118375
+Nama                : Teguh Ary Erdiansyah
+Kelas               : IF-9
+ */
 
 public class HomeFragment extends Fragment {
 

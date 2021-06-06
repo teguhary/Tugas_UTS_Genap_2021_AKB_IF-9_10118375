@@ -12,6 +12,13 @@ import com.example.catatanharian.R;
 import com.example.catatanharian.db.DBHelper;
 import com.example.catatanharian.main.MainActivity;
 
+/*
+Tanggal pengetjaan  : 4 Juni 2021
+NIM                 : 10118375
+Nama                : Teguh Ary Erdiansyah
+Kelas               : IF-9
+ */
+
 public class DeleteNote extends AppCompatActivity {
 
     @Override
