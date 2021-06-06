@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Catatan Harian</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="nim">NIM</string>
+    <string name="nama">Nama</string>
+    <string name="kelas">Kelas</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="deskripsi_gambar">Deskripsi</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="txt2">:</string>
+    <string name="profile">Profile</string>
+    <string name="nim2">10118375</string>
+    <string name="nama2">Teguh Ary Erdiansyah</string>
+    <string name="kelas2">IF - 9</string>
+    <string name="deskripsi2">
+        Saya biasa dipanggil Teguh atau Ary, lahir di Bengkalis Riau,
+        15 Oktober 2000.
+    </string>
+</resources>
